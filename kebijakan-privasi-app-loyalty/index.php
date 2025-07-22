@@ -1,112 +1,115 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Kebijakan Privasi - Smartlink</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      max-width: 960px;
-      margin: auto;
-      padding: 20px;
       line-height: 1.6;
-      background-color: #f9f9f9;
-      color: #333;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f9fa;
+      color: #212529;
     }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 40px 20px;
+      background-color: #ffffff;
+    }
+
     h1, h2 {
-      color: #2c3e50;
+      color: #0d6efd;
     }
+
     h1 {
-      font-size: 2em;
-      margin-bottom: 0;
-    }
-    h2 {
-      margin-top: 40px;
-      font-size: 1.5em;
-    }
-    .date {
-      font-style: italic;
-      color: #888;
       margin-bottom: 20px;
     }
-    ul {
-      padding-left: 20px;
+
+    h2 {
+      margin-top: 30px;
     }
-    a {
-      color: #007bff;
-      text-decoration: none;
+
+    p {
+      margin-bottom: 15px;
     }
-    a:hover {
-      text-decoration: underline;
+
+    ol, ul {
+      margin: 10px 0 20px 20px;
     }
-    @media screen and (max-width: 768px) {
-      body {
-        padding: 15px;
+
+    ul li {
+      margin-bottom: 5px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+      color: #6c757d;
+    }
+
+    @media (max-width: 600px) {
+      .container {
+        padding: 20px 15px;
       }
     }
   </style>
 </head>
 <body>
+  <div class="container">
+    <h1>Kebijakan Privasi</h1>
+    <p>Terima kasih telah menggunakan aplikasi kami. Privasi Anda sangat penting bagi kami, dan kami berkomitmen untuk melindungi informasi pribadi Anda. Berikut ini adalah kebijakan privasi kami yang menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi Anda.</p>
 
-  <h1>Kebijakan Privasi</h1>
-  <p class="date">Diperbarui 29 Juni 2021</p>
+    <h2>Informasi yang Kami Kumpulkan</h2>
+    <p>Kami mengumpulkan berbagai jenis informasi pribadi dari pengguna aplikasi kami, termasuk:</p>
+    <ol>
+      <li>Nama</li>
+      <li>Email</li>
+      <li>Nomor HP</li>
+      <li>Alamat</li>
+      <li>Aktivitas pengguna dalam aplikasi</li>
+    </ol>
 
-  <p>
-    Kebijakan Privasi ini menjelaskan bagaimana Smartlink (PT Ada Ide Langsung Jalan atau dalam hal ini disebut sebagai “kami”) mengumpulkan, menyimpan, menggunakan, mengolah, menguasai, mentransfer, mengungkapkan, dan melindungi Informasi Pribadi pengguna (dalam hal ini disebut sebagai “anda”). Kebijakan Privasi ini berlaku bagi seluruh pengguna aplikasi, situs web (dashboard.smartlink.id dan Smartlink.id), layanan, atau produk (“Aplikasi”) kami, kecuali diatur pada kebijakan privasi yang terpisah.
-  </p>
+    <h2>Penggunaan Informasi</h2>
+    <p>Informasi yang kami kumpulkan digunakan untuk tujuan berikut:</p>
+    <ul>
+      <li>Memberikan dan mengelola layanan yang Anda minta</li>
+      <li>Meningkatkan pengalaman pengguna dalam aplikasi</li>
+      <li>Menginformasikan Anda tentang pembaruan, penawaran, atau layanan baru</li>
+      <li>Memastikan kepatuhan dengan ketentuan peraturan dan hukum yang berlaku</li>
+    </ul>
 
-  <p>
-    Mohon anda membaca keseluruhan Kebijakan Privasi ini dengan saksama untuk memastikan bahwa anda memahami bagaimana proses pengolahan data kami. Kecuali didefinisikan lain, semua istilah dengan huruf kapital yang digunakan dalam Kebijakan Privasi ini memiliki arti yang sama dengan yang tercantum dalam Ketentuan Penggunaan.
-  </p>
+    <h2>Berbagi Informasi</h2>
+    <p>Kami mungkin membagikan informasi pribadi Anda dengan pihak ketiga tertentu dalam kondisi berikut:</p>
+    <ol>
+      <li><strong>Owner</strong>: Kami dapat memberikan akses ke data pengguna kepada owner aplikasi untuk proses transaksi yang Anda lakukan.</li>
+      <li><strong>Smartlink</strong>: Data mungkin digunakan oleh tim internal Smartlink untuk peningkatan layanan dan validasi keamanan aplikasi.</li>
+      <li><strong>Badan Hukum</strong>: Kami dapat memberikan informasi Anda kepada badan hukum atau institusi pemerintah jika diperlukan untuk:
+        <ul>
+          <li>Mematuhi ketentuan peraturan perundang-undangan yang berlaku</li>
+          <li>Merespons permintaan pemerintah yang sah</li>
+          <li>Menangani sengketa atau situasi darurat yang berkaitan dengan keamanan Anda</li>
+        </ul>
+      </li>
+    </ol>
 
-  <p>Kebijakan Privasi ini mencakup hal-hal sebagai berikut:</p>
-  <ul>
-    <li>1. Informasi Pribadi yang kami kumpulkan</li>
-    <li>2. Penggunaan Informasi Pribadi yang kami kumpulkan</li>
-    <li>3. Pemberian Informasi Pribadi yang kami kumpulkan</li>
-    <li>4. Penyimpanan Informasi Pribadi</li>
-    <li>5. Akses dan koreksi Informasi Pribadi</li>
-    <li>6. Tempat kami menyimpan Informasi Pribadi Anda</li>
-    <li>7. Keamanan Informasi Pribadi Anda</li>
-    <li>8. Perubahan atas Kebijakan Privasi ini</li>
-    <li>9. Pengakuan dan persetujuan</li>
-    <li>10. Cara untuk menghubungi kami</li>
-  </ul>
+    <h2>Keamanan Informasi</h2>
+    <p>Kami mengambil langkah-langkah keamanan yang wajar untuk melindungi informasi pribadi Anda dari akses, penggunaan, atau pengungkapan yang tidak sah. Namun, perlu diingat bahwa tidak ada metode transmisi melalui internet atau metode penyimpanan elektronik yang 100% aman.</p>
 
-  <h2>1. Informasi Pribadi Yang Kami Kumpulkan</h2>
-  <p>Kami mengumpulkan informasi yang digunakan untuk mengidentifikasi, menghubungi, atau menemukan orang atau perangkat yang terkait dengan informasi tersebut (“Informasi Pribadi”)...</p>
+    <h2>Perubahan pada Kebijakan Privasi</h2>
+    <p>Kami dapat memperbarui kebijakan privasi ini dari waktu ke waktu. Setiap perubahan akan diberitahukan kepada Anda melalui aplikasi kami atau melalui email.</p>
+    <p>Dengan menggunakan aplikasi ini, Anda mengakui bahwa Anda telah membaca dan memahami Kebijakan Privasi ini dan Ketentuan Penggunaan dan setuju serta sepakat terhadap penyimpanan, penggunaan, pemrosesan, pemberian, dan pengalihan informasi pribadi Anda oleh kami sebagaimana dinyatakan di dalam Kebijakan Privasi ini.</p>
+    <p>Jika Anda memiliki pertanyaan atau kekhawatiran tentang kebijakan privasi kami, jangan ragu untuk menghubungi kami.</p>
 
-  <h2>2. Penggunaan Informasi Pribadi Yang Kami Kumpulkan</h2>
-  <p>Kami dapat menggunakan Informasi Pribadi yang dikumpulkan untuk tujuan sebagai berikut maupun untuk tujuan lain yang diizinkan oleh peraturan perundang-undangan yang berlaku...</p>
+    <p>Terima kasih atas kepercayaan Anda kepada kami.</p>
+  </div>
 
-  <h2>3. Pemberian Informasi Pribadi Yang Kami Kumpulkan</h2>
-  <p>Kami dapat mengungkapkan atau membagikan Informasi Pribadi anda dengan afiliasi dan pihak lain untuk tujuan sebagai berikut ini serta untuk tujuan lain yang diizinkan...</p>
-
-  <h2>4. Penyimpanan Informasi Pribadi</h2>
-  <p>Informasi Pribadi anda hanya akan disimpan selama diperlukan untuk memenuhi tujuan dari pengumpulannya, atau selama penyimpanan tersebut diperlukan atau diperbolehkan...</p>
-
-  <h2>5. Akses Dan Koreksi Informasi Pribadi</h2>
-  <p>Kami berhak menolak permintaan anda untuk mengakses atau untuk memperbaiki, sebagian atau semua Informasi Pribadi anda yang kami miliki atau kuasai jika diizinkan...</p>
-
-  <h2>6. Tempat Kami Menyimpan Informasi Pribadi Anda</h2>
-  <p>Informasi Pribadi dari anda yang kami kumpulkan dapat disimpan, ditransfer, atau diolah oleh penyedia layanan pihak ketiga...</p>
-
-  <h2>7. Keamanan Informasi Pribadi Anda</h2>
-  <p>Kerahasiaan Informasi Pribadi anda adalah hal yang terpenting bagi kami. Kami akan memberlakukan upaya terbaik untuk melindungi dan mengamankan data dan Informasi Pribadi anda...</p>
-
-  <h2>8. Perubahan Atas Kebijakan Privasi Ini</h2>
-  <p>Kami dapat meninjau dan mengubah Kebijakan Privasi ini atas kebijakan kami sendiri dari waktu ke waktu, untuk memastikan bahwa Kebijakan Privasi ini konsisten...</p>
-
-  <h2>9. Pengakuan Dan Persetujuan</h2>
-  <p>Dengan menyetujui Kebijakan Privasi, anda mengakui bahwa anda telah membaca dan memahami Kebijakan Privasi ini dan menyetujui segala ketentuannya...</p>
-
-  <h2>10. Cara Untuk Menghubungi Kami</h2>
-  <p>Jika anda memiliki pertanyaan mengenai Kebijakan Privasi ini atau ingin mendapatkan akses dan/atau melakukan koreksi terhadap Informasi Pribadi anda, silakan hubungi:</p>
-  <ul>
-    <li>Email: <a href="mailto:Admin@Smartlink.id">Admin@Smartlink.id</a></li>
-    <li>WhatsApp: <a href="https://wa.me/6285234494494" target="_blank">+62 852-3449-4494</a></li>
-  </ul>
-
+  <footer>
+    &copy; 2025 Smartlink - PT Ada Ide Langsung Jalan
+  </footer>
 </body>
 </html>
